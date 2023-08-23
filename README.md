@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello There!
+I'm a secondary school student interested in software development, engineering, embedded systems and space technology.
+I both learn and teach programming.
 
+Languages: 
 <!--
 **KermitThePog/KermitThePog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
